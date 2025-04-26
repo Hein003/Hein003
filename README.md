@@ -26,17 +26,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hein-username&show_icons=true&theme=tokyonight" alt="Hein's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hein-username&theme=tokyonight" />
-</p>
-
----
----
 
 <p align="center">✨ Thanks for stopping by my profile!</p>
