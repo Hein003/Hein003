@@ -11,7 +11,6 @@
 - 🎓 I'm currently studying **Information Technology** at Victoria University, Australia  
 - 🌱 I’m working on my first app: **HeinMate** – a cross-platform personal assistant with voice features  
 - 🧠 I love learning and building cool tech projects  
-- ☕ I enjoy a calm cup of tea (sometimes in my baths too!)  
 - 💬 Always happy to connect and collaborate
 
 ---
